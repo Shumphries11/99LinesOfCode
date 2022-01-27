@@ -10,6 +10,6 @@ h1 {
     background-color: cyan;
 }
 
-h3 {
+.friend > h3 {
     text-transform: uppercase;
 }
